@@ -24,7 +24,7 @@ This repository contains an interactive **Power BI dashboard** built using the S
 - Superstore CSV dataset
 
 ## 📸 Dashboard Preview
-![Superstore Dashboard](Images/dashboard_sample.png)
+![Superstore Dashboard](https://github.com/SnehardhaGhosh/superstore-dashboard-analysis_Task2/blob/main/dashboard_sample.png.png)
 
 ---
 
